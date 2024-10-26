@@ -8,6 +8,3 @@ We sought to develop a profitable long-short equity strategy that uses sentiment
 * Jupyter Notebooks
 * [Quantopian](https://www.quantopian.com/)
 
-## Authors 
-* [Josh Isaacson](https://github.com/jsisaacs) 
-* [Hannah Isaacson](https://github.com/hannahisaacson)
